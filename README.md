@@ -1,3 +1,3 @@
-Heap challenge exploit scripts + writeups will be up here and on my website after the winners are announced.
+Detailed writeups for the ghost diary, zero to hero, and sice cream can be found here:
 
-https://syedfarazabrar.com
+https://syedfarazabrar.com/2019-10-12-picoctf-2019-heap-challs/
